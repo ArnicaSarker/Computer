@@ -1,0 +1,5 @@
+vhdl work "XOR_gate.vhd"
+vhdl work "OR_gate.vhd"
+vhdl work "AND_gate.vhd"
+vhdl work "full_adder_1bit.vhd"
+vhdl work "full_adder_8bit.vhd"
