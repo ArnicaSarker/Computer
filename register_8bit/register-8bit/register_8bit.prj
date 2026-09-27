@@ -1,0 +1,5 @@
+vhdl work "SR_latch.vhd"
+vhdl work "D_latch.vhd"
+vhdl work "master_slave_flipflop.vhd"
+vhdl work "register_1bit.vhd"
+vhdl work "register_8bit.vhd"

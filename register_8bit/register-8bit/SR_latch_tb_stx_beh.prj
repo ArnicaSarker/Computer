@@ -1,0 +1,2 @@
+vhdl isim_temp "SR_latch.vhd"
+vhdl isim_temp "SR_latch_tb.vhd"
